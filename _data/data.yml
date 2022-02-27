@@ -21,7 +21,7 @@ sidebar:
   bitbucket:
   twitter: "etnecivowo"
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars: "Etneciv09"
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
@@ -63,7 +63,7 @@ experiences:
     company: Freelancer
     details: |
       I was worked for differents clients, design and developing webs for their, my principal role was front-end but in
-      some cases I was working in back-end.
+      some cases, I was working in back-end.
         - Bullet point
         - Bullet point
 
@@ -98,6 +98,17 @@ skills:
     - name: MySql
       level: 40%
 
+    - name: Angular
+      level: 20%
+
+    - name: Photoshop
+    - level: 60%
+
+    - name: Sony Vegas
+    - level: 60%
+
+    - name: Digital Marketing
+    - level: 40%
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!

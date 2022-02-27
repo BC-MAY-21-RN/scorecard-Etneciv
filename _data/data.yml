@@ -15,8 +15,8 @@ sidebar:
   email: flopez27@ucol.mx
   phone: 3122283504
   website: # No agregar http://
-  linkedin: www.linkedin.com/in/fernando-etneciv-lópez-ladino-895359158/
-  github: www.github.com/Etneciv
+  linkedin: "@fernando-etneciv-lópez-ladino-895359158"
+  github: "@Etneciv"
   gitlab:
   bitbucket:
   twitter: "@etnecivowo"
@@ -31,9 +31,6 @@ sidebar:
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
-
-    - idiom:
-      level:
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -50,7 +47,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    My name is Fernando, I'm 23 years old. I'm studyng Software Engeenering in the .
+    My name is Fernando, I'm 23 years old. I'm studying Software Engeenering in University of Colima, just now I'm in the last semester of the course.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:

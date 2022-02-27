@@ -101,14 +101,15 @@ skills:
     - name: Angular
       level: 20%
 
+    - name: Digital-Marketing
+      level: 40%
+
     - name: Photoshop
-    - level: 60%
+      level: 60%
 
-    - name: Sony Vegas
-    - level: 60%
+    - name: Sony-Vegas
+      level: 60%
 
-    - name: Digital Marketing
-    - level: 40%
 # NO MODIFICAR
 footer: >
   BrightCoders for a brighter future!

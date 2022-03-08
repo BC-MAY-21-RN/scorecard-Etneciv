@@ -7,7 +7,7 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Fernando Etneciv López Ladino # Nombre completo
+  name: Fernando López # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
@@ -37,10 +37,43 @@ sidebar:
     - item: Communication
       link: # dejar en blanco
 
+    - item: Empathy
+      link: # dejar en blanco
+
+    - item: Patience
+      link: # dejar en blanco
+
+    - item: Adaptability
+      link: # dejar en blanco
+
+    - item: Creativity
+      link: # dejar en blanco
+
+    - item: Problem solving
+      link: # dejar en blanco
+
+    - item: Confidence
+      link: # dejar en blanco
+
+    - item: Helpfulness
+      link: # dejar en blanco
+
+    - item: Accountability
+      link: # dejar en blanco
+
     - item: Team Work
       link: # dejar en blanco
 
+    - item: Work ethic
+      link: # dejar en blanco
+
+    - item: Perseverance
+      link: # dejar en blanco
+
     - item: Time Management
+      link: # dejar en blanco
+
+    - item: Digital marketing
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
@@ -48,6 +81,7 @@ career-profile:
   title: About Me # NO MODIFICAR
   summary: |
     My name is Fernando, I'm 23 years old. I'm studying Software Engeenering in University of Colima, just now I'm in the last semester of the course.
+    I'm front-end web developer and just now I'm learning react-native for mobile development.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -64,8 +98,19 @@ experiences:
     details: |
       I was worked for differents clients, design and developing webs for their, my principal role was front-end but in
       some cases, I was working in back-end.
-        - Bullet point
-        - Bullet point
+
+  - role: React Native Mobile Developer
+    time: 2022 - current
+    company: BrightCoders
+    details: |
+      I'm learning to design and development hybrid apps for android and iOS with react-native.
+
+  - role: Introduction to cybersecurity
+    time: 2019-2020
+    company: cisco
+    details: |
+      I have basic experience with cybersecurity, I know the concepts and how can I apply this bases 
+      to my projects or how can I avoid bad practice in the process.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -100,9 +145,6 @@ skills:
 
     - name: Angular
       level: 20%
-
-    - name: Digital-Marketing
-      level: 40%
 
     - name: Photoshop
       level: 60%
